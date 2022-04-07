@@ -137,11 +137,11 @@ module.exports = {
             collapsable: false,
             children: [
               "/imunifyav/",
-              "/cli/",
-              "/config_file_description/",
-              "/stand_alone_mode/",
               "/imunifyav_for_plesk/",
               "/imunifyav_for_ispmanager/",
+              "/stand_alone_mode/",
+              "/cli/",
+              "/config_file_description/",
               "/faq_and_known_issues/"
             ]
           }

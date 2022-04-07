@@ -1,4 +1,4 @@
-# ImunifyAV for cPanel and DirectAdmin
+# ImunifyAV(+) for cPanel and DirectAdmin
 
 
 ::: tip Note
