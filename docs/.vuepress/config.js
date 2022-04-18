@@ -126,7 +126,7 @@ module.exports = {
           },
           {
             text: "Contact support",
-            url: "https://cloudlinux.zendesk.com/hc/requests/new"
+            url: "https://www.imunify360.com/contact/"
           },
           { text: "Blog", url: "https://blog.imunify360.com/tag/imunifyav" }
         ],
