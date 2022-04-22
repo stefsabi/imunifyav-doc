@@ -74,6 +74,8 @@ module.exports = {
 
     translationSource: 'docs.imunifyav.com',
     defaultURL: "/imunifyav/",
+    submitRequestURL: "https://www.imunify360.com/support-portal/",
+    hideHeading: true,
     redirectionMapping: urls,
     sidebarDepth: 2,
     logo: "/logo.svg",
@@ -101,6 +103,7 @@ module.exports = {
         editLinkText: "Edit this page",
         tryFree: "Try Imunify360 For Free",
         avFree: "Get ImunifyAV free",
+        submitRequest: "Contact Support",
         search: "Search",
         // config for Service Worker
         serviceWorker: {
