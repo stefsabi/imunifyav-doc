@@ -88,7 +88,7 @@ In the Premium version of the Antivirus you can clean the malware automatically 
 Watch the quick demo on how it works and then try it on your own.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfJeerML_ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/dsNhq4f_x0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quick introduction for users
 
