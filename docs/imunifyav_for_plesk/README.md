@@ -1,45 +1,21 @@
 # ImunifyAV(+) for Plesk
 
-[[toc]]
+ImunifyAV for Plesk is an intelligent antivirus and security monitoring tool designed to work with Plesk CMS. It performs one-click automatic malware cleanup, domain reputation monitoring as well as blacklist status check and is available as a Free and a Premium (ImunifyAV+) version.
 
-## General overview
-
-ImunifyAV is an intelligent antivirus and security monitoring tool for websites with one-click automatic malware cleanup, domains reputation monitoring and blacklist status check.
-
-ImunifyAV is available as a Free and a Premium (ImunifyAV+) version.
-
-### Key features
-
-* Detects any types of malicious files including backdoors, web-shells, viruses, hacker’s tools, ‘blackhat SEO’ scripts, phishing pages and others
-* Monitors reputation and blacklist status of domains against dozen of security vendors including Google SB, Yandex SB, McAfee, ESET, Kaspersky
-* Supports WordPress, Joomla!, Magento, Drupal, MODx, Bitrix and other PHP-based CMSs and static HTML websites
-* One-click automatic malware cleanup, scheduled & on-demand website scannings and detailed reports
-* UI flow optimized for security monitoring of hundreds of users and thousands of domains per server
-* Configurable access permissions to the Antivirus for different Subscriptions.
-
-### Editions available
-
-Free version includes a fully-featured malware file scanner, reputation and blacklist status monitoring. No trial period, no scanning limits.
-
-Premium edition enables one-click automatic cleanup, scheduled websites check, admin users notifications on malware detection, priority domain reputation check and blacklisting status. It also enables access permission configuration, integration with Subscriptions and introduces a new User tab with a summary and website scanning results grouped by users.
-
-### Comparison table
-
-| | | |
-|-|:-:|:-:|
-|Feature / Edition|Free|Premium (AV+)|
-|Intelligent malware file scanner|✔| ✔|
-|Domain monitoring and reputation check|✔|✔|
-|One-click automatic malware cleanup| |✔|
-|Scheduled and regular websites scanning| |✔|
-|Email notification on malware detection| |✔|
-|Priority domain reputation check| |✔|
-|New _Users_ tab with scanning summary and  infection status| |✔|
-|Antivirus integration with Service Plans/Subscriptions: enable/disable antivirus features for Subscriptions| |✔|
-
-Premium and Shared Hosting editions come with per-server licenses: unlimited number of domains.
-
-In case if you have any questions, proposal or feedback feel free to contact us via [Zendesk](https://cloudlinux.zendesk.com/hc/en-us/requests/new).
+* [Quick introduction for server admins](/imunifyav_for_plesk/#quick-introduction-for-server-admins)
+    * [Premium (ImunifyAV+) version and automatic malware cleanup](/imunifyav_for_plesk/#premium-imunifyav-version-and-automatic-malware-cleanup)
+    * [Video](/imunifyav_for_plesk/#video)
+* [Quick introduction for users](/imunifyav_for_plesk/#quick-introduction-for-users)
+* [Explanations](/imunifyav_for_plesk/#explanations)
+    * [Explaining the Domain tab](/imunifyav_for_plesk/#explaining-the-domain-tab)
+    * [Explaining the Settings tab](/imunifyav_for_plesk/#explaining-the-settings-tab)
+    * [How to activate a license key (for paid versions)](/imunifyav_for_plesk/#how-to-activate-a-license-key-for-paid-versions)
+    * [How the Antivirus removes malware](/imunifyav_for_plesk/#how-the-antivirus-removes-malware)
+* [FAQ](/imunifyav_for_plesk/#faq)
+* [Troubleshooting](/imunifyav_for_plesk/#troubleshooting)
+* [Removing ImunifyAV for Plesk](/imunifyav_for_plesk/#removing-imunifyav-for-plesk)
+* [Extension diagnostics](/imunifyav_for_plesk/#extension-diagnostics)
+    * [How to collect Plesk debug log](/imunifyav_for_plesk/#how-to-collect-plesk-debug-log)
 
 ## Quick introduction for server admins
 
