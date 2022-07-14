@@ -297,14 +297,14 @@ It should point to an executable file that generates a JSON file similar to the 
     },
     {
       "id": 1001,
-      "username": "ins5yo4",
+      "username": "ins5yo6",
       "owner": "root",
-      "domain": "ins5yo4.com",
+      "domain": "ins5yo6.com",
       "package": {
         "name": "package",
         "owner": "root"
       },
-      "email": "ins5yo4@ins5yo4.com",
+      "email": "ins5yo4@ins5yo6.com",
       "locale_code": "EN_us"
     }
   ],
