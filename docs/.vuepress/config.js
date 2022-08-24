@@ -128,8 +128,8 @@ module.exports = {
             url: "https://www.imunify360.com/antivirus"
           },
           {
-            text: "Contact support",
-            url: "https://www.imunify360.com/contact/"
+            text: "Submit request",
+            url: "https://cloudlinux.zendesk.com/hc/en-us/requests/new"
           },
           { text: "Blog", url: "https://blog.imunify360.com/tag/imunifyav" }
         ],
