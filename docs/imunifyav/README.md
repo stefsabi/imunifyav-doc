@@ -615,7 +615,7 @@ Allows to set up automatic, scheduled, background scanning of user accounts.
   * Monthly
 
 :::warning Note
-The `Daily` and `Weekly` options are available for ImunifyAV+ and Imunify360 only.
+The `Daily` and `Weekly` options are available for ImunifyAV+ and Imunify360 only. In ImunifyAV, the setting set to `Daily` and `Weekly` will be reset to `Monthly` - it is expected behavior.
 :::
 
 | ![ImunifyAV → Settings → Background Scanning](/images/AVBackgroundScanning.png) |
