@@ -11,6 +11,7 @@ Below you can find the steps to install and run ImunifyAV, in stand-alone mode, 
 * CloudLinux OS 6/7/8
 * Ubuntu 16.04 (LTS only), 18.04, 20.04
 * Debian 9/10
+* Rocky Linux 8
 
 #### Prerequisites
 
