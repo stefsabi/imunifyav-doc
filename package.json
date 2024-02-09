@@ -5,9 +5,9 @@
   },
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.4.1",
-    "vue": "~2.5.16",
+    "vue": "~2.7.16",
     "vue-server-renderer": "~2.5.16",
-    "vue-template-compiler": "~2.5.16",
+    "vue-template-compiler": "~2.7.16",
     "vuepress": "^1.0.2",
     "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-container": "^2.1.0",
